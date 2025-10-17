@@ -8,7 +8,7 @@ Cada app é rápido de desenvolver (de 1h a 1 dia) e traz uma “pequena vitóri
 ## 🧩 Estrutura da Trilha
 
 ### **Nível 0 — Fundamentos**
-1. Hello Hooks → botão que muda o texto usando `useState`  
+1. Hello Hooks → botão que muda o texto usando `useState`  ✅
 2. Contador → incrementa e decrementa com limite  
 3. Toggle Theme → alterna tema dark/light e salva no `localStorage`  
 4. Input Mirror → reflete o texto digitado em tempo real  
@@ -60,5 +60,3 @@ Cada app é rápido de desenvolver (de 1h a 1 dia) e traz uma “pequena vitóri
 30. Carrinho v2 → catálogo via API e checkout fake  
 
 ---
-
-## 🛠️ Estrutura de diretórios sugerida
